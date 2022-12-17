@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+torch==1.12.0
+transformers
+datasets
+evaluate
+seaborn
+scipy
+statistics
